@@ -1,0 +1,46 @@
+.background{
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    animation: gradient-animation 18s ease infinite;
+    
+}
+.row{
+    align-items:center;
+    
+}
+
+
+
+.iphone-png{
+    padding-top: 6rem;
+}
+
+.icon{
+    border-radius: 25%;
+}
+
+.Testimonial{
+    background-color: rgb(237, 238, 239);
+}
+
+.dog{
+    padding: 2rem;
+}
+.bog-jpg{
+    width:10rem ;
+    border-radius: 50%;
+}
+
+.compoany-jpg{
+padding-top: 2rem;
+}
+.compoany-jpg img{
+height: 2rem;
+width: 10rem;
+}
+
+
+.price{
+    justify-content: center;
+    padding-bottom: 3rem;
+}
+
